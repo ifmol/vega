@@ -1,6 +1,6 @@
 [{"yield":27,"variety":"XE88228","year":false,"site":"datosSistema.cobertura"},
-{"yield":58.16667,"variety":"Wisconsin No. 38","year":1932,"site":"Waseca"},
-{"yield":47.16667,"variety":"Wisconsin No. 38","year":1932,"site":"Morris"},
-{"yield":35.9,"variety":"Wisconsin No. 38","year":1932,"site":"Crookston"},
-{"yield":20.66667,"variety":"Wisconsin No. 38","year":1932,"site":"Grand Rapids"},
-{"yield":29.33333,"variety":"Wisconsin No. 38","year":1932,"site":"Duluth"}]
+{"yield":58.16667,"variety":"XE88228","true":1932,"site":"datosSistema.fondos"},
+{"yield":47.16667,"variety":"XE88228","false":1932,"site":"datosSistema.gestorDocumental"},
+{"yield":35.9,"variety":"XE88228","year":true,"site":"datosSistema.sistemaAltaSSI.amiga"},
+{"yield":20.66667,"variety":"XE88228","year":false,"site":"datosSistema.sistemaAltaSSI.midas"},
+{"yield":29.33333,"variety":"XE88228","year":false,"site":"datosSistema.sistemaAltaSSI.rdr"}]
