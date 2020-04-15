@@ -1,6 +1,10 @@
 [{"yield":27,"variety":"XE88228","year":false,"site":"datosSistema.cobertura"},
-{"yield":58.16667,"variety":"XE88228","true":1932,"site":"datosSistema.fondos"},
-{"yield":47.16667,"variety":"XE88228","false":1932,"site":"datosSistema.gestorDocumental"},
+{"yield":58.16667,"variety":"XE88228","year":true,"site":"datosSistema.fondos"},
+{"yield":47.16667,"variety":"XE88228","year":true,"site":"datosSistema.gestorDocumental"},
 {"yield":35.9,"variety":"XE88228","year":true,"site":"datosSistema.sistemaAltaSSI.amiga"},
 {"yield":20.66667,"variety":"XE88228","year":false,"site":"datosSistema.sistemaAltaSSI.midas"},
-{"yield":29.33333,"variety":"XE88228","year":false,"site":"datosSistema.sistemaAltaSSI.rdr"}]
+{"yield":29.33333,"variety":"XE99228","year":true,"site":"datosSistema.cobertura"},
+{"yield":20.66667,"variety":"XE99228","year":false,"site":"datosSistema.fondos"},
+{"yield":20.66667,"variety":"XE99228","year":true,"site":"datosSistema.gestorDocumental"},
+{"yield":20.66667,"variety":"XE99228","year":false,"site":"datosSistema.sistemaAltaSSI.amiga"},
+{"yield":20.66667,"variety":"XE99228","year":true,"site":"datosSistema.sistemaAltaSSI.midas"}]
